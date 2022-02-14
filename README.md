@@ -4,7 +4,7 @@
 <br><br>
 **Hello! My name is Ben.**
 <br>
-Hello! My name is Benjamin and I am a full-stack software engineer. I have built frontend, backend, and full-stack applications using JavaScript, React, Express, Node.js, PostgreSQL, and nginx. I especially enjoy finding interesting new data sets and then creating a frontend to display that information in fun, intuitive, and creative ways. If you are interested in my work, please get in touch!
+Hello! My name is Ben and I am a full-stack software engineer. I have built frontend, backend, and full-stack applications using JavaScript, React, Express, Node.js, PostgreSQL, and nginx. I especially enjoy finding interesting new data sets and then creating a frontend to display that information in fun, intuitive, and creative ways. If you are interested in my work, please get in touch!
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my-name-is-ben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
