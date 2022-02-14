@@ -4,11 +4,9 @@
 <br><br>
 **Hello! My name is Ben.**
 <br>
-I am a Software Engineer with experience building websites and web applications. I enjoy building interesting applications, tackling unique problems, and finding creative solutions to those problems.
-<br>
-I am very proficient with JavaScript and have experience working with technologies like React, Node.js, and Express. I also have experience working with PostgreSQL, mySQL, and MongoDB. If you are interested in my work, please get in touch!
-<br>
-- 📍 Based in Boulder, CO
+Hello! My name is Benjamin and I am a full-stack software engineer. I have built frontend, backend, and full-stack applications using JavaScript, React, Express, Node.js, PostgreSQL, and nginx. I especially enjoy finding interesting new data sets and then creating a frontend to display that information in fun, intuitive, and creative ways. If you are interested in my work, please get in touch!
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my-name-is-ben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technical Skills
@@ -52,6 +50,7 @@ I am very proficient with JavaScript and have experience working with technologi
 
 Here are some ideas to get you started:
 
+- 📍 Based in Boulder, CO
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
